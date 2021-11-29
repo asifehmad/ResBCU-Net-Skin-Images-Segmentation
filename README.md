@@ -7,7 +7,7 @@ The notebook contains different models, choose your model accordingly.
 I am very thankful to [Reza Azad](https://github.com/rezazad68) for the source [code](https://github.com/rezazad68/BCDU-Net).
 
 
-###  If you find the repo useful, please Cite as:
+###  If you find the repo and the work useful, please Cite as:
 @article{badshah2022resbcu,
   title={ResBCU-Net: Deep learning approach for segmentation of skin images},
   author={Badshah, Noor and Ahmad, Asif},
