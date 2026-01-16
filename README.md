@@ -8,6 +8,7 @@ I am very thankful to [Reza Azad](https://github.com/rezazad68) for the source [
 
 
 ###  If you find the repo and the work useful, please Cite as:
+```
 @article{badshah2022resbcu,
   title={ResBCU-Net: Deep learning approach for segmentation of skin images},
   author={Badshah, Noor and Ahmad, Asif},
@@ -17,5 +18,5 @@ I am very thankful to [Reza Azad](https://github.com/rezazad68) for the source [
   year={2022},
   publisher={Elsevier}
 }
-
+```
 Link to the paper: https://doi.org/10.1016/j.bspc.2021.103137
